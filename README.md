@@ -31,6 +31,7 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 <br />
 <br />
 <a href="https://github.com/JavierGavra">
+
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergavra&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=javiergavra&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" />
 </a>
