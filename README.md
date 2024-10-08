@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javiergavra&label=Profile%20views&color=0e75b6&style=flat" alt="javiergavra" /> </p>
 
-- 🔭 I'm studying at **SMK RUS**
+- 🔭 I'm studying at **Dian Nuswantoro University**
 
 - 🌱 I’m currently learning **Java and Flutter**
 
