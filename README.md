@@ -30,7 +30,9 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 
 <br />
 
+<center>
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JavierGavra&theme=tokyonight&hide_border=false)
+</center>
 
 [![@jarganaya's Holopin board](https://holopin.me/jarganaya)](https://holopin.io/@jarganaya)
 
