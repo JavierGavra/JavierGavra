@@ -19,9 +19,9 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 </br></br>
 <hr>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=JavierGavra&theme=gotham&border_radius=28&date_format=j%20M%5B%20Y%5D&card_width=360&sideNums=C23127&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=JavierGavra&theme=gotham&border_radius=28&date_format=j%20M%5B%20Y%5D&card_width=490&fire=C23127&currStreakNum=EDB443)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leanyw&layout=compact&theme=gotham&border_radius=28&card_width=360)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leanyw&layout=compact&theme=gotham&border_radius=28&card_width=390)
 
 [![@jarganaya's Holopin board](https://holopin.me/jarganaya)](https://holopin.io/@jarganaya)
 
