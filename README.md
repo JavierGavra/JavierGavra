@@ -32,7 +32,7 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JavierGavra&theme=tokyonight&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JavierGavra&theme=catppuccin-mocha&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JavierGavra&theme=tokyonight&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierGavra&layout=compact&theme=radical)
 
