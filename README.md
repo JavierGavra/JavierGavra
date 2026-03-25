@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm Javier Gavra</h1>
-<h3 align="center">I'm Mobile Developer from Earth🌏</h3>
-</br>
-<img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&duration=3000&pause=500&color=2aa889&center=true&width=435&lines=I'm+Mobile+Developer+from+Earth%F0%9F%8C%8D;I'm+Mobile+Developer+from+Moon%F0%9F%8C%92;I'm+Mobile+Developer+from+Mars%F0%9F%94%B4;I'm+Mobile+Developer+from+Saturn%F0%9F%AA%90;I'm+Mobile+Developer+from+Venus%F0%9F%8C%95)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javiergavra&label=Profile%20views&color=0e75b6&style=flat" alt="javiergavra" /> </p>
+</div>
+
+<img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I'm studying at **Dian Nuswantoro University**
 
@@ -19,6 +21,18 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 </br></br>
 <hr>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=JavierGavra&theme=gotham&border_radius=28&date_format=j%20M%5B%20Y%5D&card_width=490&fire=C23127&currStreakNum=EDB443)](https://git.io/streak-stats)
+<div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierGavra&layout=compact&theme=gotham&border_radius=28&card_width=390)
+## ✨Streak
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=JavierGavra&theme=gotham&border_radius=28&date_format=j%20M%5B%20Y%5D&card_width=500&fire=C23127&currStreakNum=EDB443)](https://git.io/streak-stats)
+
+---
+
+## ✨Top Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierGavra&layout=compact&theme=gotham&border_radius=28&card_width=500)  
+
+</div>
+
+---
