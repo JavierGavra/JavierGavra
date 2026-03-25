@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I'm a good person**
 
 If you want to be friends with me, DM me on instagram. Calm down I'm a good person. **"Yoroshiku Onegaishimasu🥰"**
-</br></br>
+</br></br></br>
 <hr>
 
 <div align="left">
@@ -34,5 +34,3 @@ If you want to be friends with me, DM me on instagram. Calm down I'm a good pers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierGavra&layout=compact&theme=gotham&border_radius=28&card_width=500)  
 
 </div>
-
----
